@@ -51,14 +51,12 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="TransTV" tvg-logo="https://i.ibb.co/j86kRWK/transtvfix.png" group-title="Lokal",Trans TV HD
-https://siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/TransTV-null.m3u8
-
-
+#EXTINF:0 tvg-id="" tvg-name="TransTV" tvg-logo="https://i.ibb.co/j86kRWK/transtvfix.png" group-title="Lokal",Trans TV 
+https://www.seulangatv-online.ml/vidio/transtv.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="Trans7" tvg-logo="https://i.ibb.co/8B8tY5z/800px-Trans-7-2013-svg.png" group-title="Lokal",Trans 7 HD
-https://siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/Trans7-null.m3u8
+https://www.seulangatv-online.ml/vidio/trans7.m3u8
 
 
 
